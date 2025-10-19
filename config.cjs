@@ -2,7 +2,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "Nebula~iyZzTBaD#T-0cuQrDOtqYBaQSXtaIP11r6z6zT4EQSZT-4alz7HM",
+  SESSION_ID: process.env.SESSION_ID || "znJDjAIb#y8LG6Q_itbYqeE9-OA6beIbkY4DqdgdkX81DdPbG42Q",
   PREFIX: process.env.PREFIX || '.',
   BOT_NAME: process.env.BOT_NAME || "NEBULA MD LITE",
   BOT: process.env.BOT || "hello 👋",
